@@ -1,0 +1,50 @@
+{
+  "Label":"Songs by Louis Armstrong",
+  "SubLabel":"Songs loaded from a json file::",
+  "SongItems":
+  [
+    {"Title": "What a Wonderful World",
+    "Author": "Louis Armstrong",
+    "Genre": "Easy Listening",
+    "Detail": {
+        "Publication_Year": 1968,
+        "Language": "English",
+        "Time": 138
+    },
+    "Price": [  {  "type": "iTunes", "price": 1.55  }, { "type": "Album", "price": 7.03  } ]
+  },
+
+  {"Title": "Blue Berry Hill",
+  "Author": "Louis Armstrong",
+  "Genre": "Trad Jazz",
+  "Detail": {
+      "Publication_Year": 2018,
+      "Language": "English",
+      "Time": 210
+  },
+  "Price": [  {  "type": "iTunes", "price": 5.55  }, { "type": "Album", "price": 6.00  } ]
+},
+
+{"Title": "Body and Soul",
+"Author": "Louis Armstrong",
+"Genre": "Soul",
+"Detail": {
+    "Publication_Year": 2014,
+    "Language": "English",
+    "Time": 283
+},
+"Price": [  {  "type": "iTunes", "price": 3.03  }, { "type": "Album", "price": 9.06  } ]
+},
+
+  {"Title": "Hello Dolly",
+    "Author": "Louis Armstrong",
+    "Genre": "Trad Jazz",
+    "Detail": {
+        "Publication_Year": 2018,
+        "Language": "English",
+        "Time": 138
+    },
+    "Price": [  {  "type": "iTunes", "price": 3.55  }, { "type": "Album", "price": 10.99  } ]
+    }
+   ]
+  }
